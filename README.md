@@ -1,0 +1,1 @@
+# Store-the-array-Element-and-Read-it.
